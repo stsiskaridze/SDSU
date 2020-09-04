@@ -1,0 +1,720 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   width="1500"
+   height="400"
+   version="1.1"
+   id="svg1057"
+   sodipodi:docname="bernoulli.svg"
+   inkscape:version="0.92.4 (5da689c313, 2019-01-14)">
+  <metadata
+     id="metadata1063">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+        <dc:title></dc:title>
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <defs
+     id="defs1061" />
+  <sodipodi:namedview
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1"
+     objecttolerance="10"
+     gridtolerance="10"
+     guidetolerance="10"
+     inkscape:pageopacity="0"
+     inkscape:pageshadow="2"
+     inkscape:window-width="1920"
+     inkscape:window-height="1017"
+     id="namedview1059"
+     showgrid="false"
+     inkscape:zoom="0.96"
+     inkscape:cx="750"
+     inkscape:cy="200"
+     inkscape:window-x="-8"
+     inkscape:window-y="-8"
+     inkscape:window-maximized="1"
+     inkscape:current-layer="svg1057" />
+  <!-- SVG plot written using Boost.Plot program (Creator Jacob Voytko) -->
+  <!-- Use, modification and distribution of Boost.Plot subject to the -->
+  <!-- Boost Software License, Version 1.0.-->
+  <!-- (See accompanying file LICENSE_1_0.txt -->
+  <!-- or copy at http://www.boost.org/LICENSE_1_0.txt) -->
+  <clipPath
+     id="plot_window">
+    <rect
+       x="85.199997"
+       y="59"
+       width="512.79999"
+       height="281"
+       id="rect940" />
+  </clipPath>
+  <g
+     id="imageBackground"
+     style="fill:#ffffff;stroke:#778899;stroke-width:2">
+    <rect
+       x="0"
+       y="0"
+       width="750"
+       height="400"
+       id="rect943" />
+  </g>
+  <g
+     id="plotBackground"
+     style="fill:#ffffff;stroke:#778899;stroke-width:2">
+    <rect
+       x="84.199997"
+       y="58"
+       width="514.79999"
+       height="283"
+       id="rect946" />
+  </g>
+  <g
+     id="yMinorGrid"
+     style="stroke:#c8dcff;stroke-width:0.5" />
+  <g
+     id="yMajorGrid"
+     style="stroke:#c8dcff;stroke-width:1" />
+  <g
+     id="xMinorGrid"
+     style="stroke:#c8dcff;stroke-width:0.5" />
+  <g
+     id="xMajorGrid"
+     style="stroke:#c8dcff;stroke-width:1" />
+  <g
+     id="yAxis"
+     style="stroke:#000000;stroke-width:1">
+    <line
+       x1="212.89999"
+       y1="58"
+       x2="212.89999"
+       y2="346"
+       id="line953" />
+    <line
+       x1="84.199997"
+       y1="58"
+       x2="84.199997"
+       y2="341"
+       id="line955" />
+  </g>
+  <g
+     id="xAxis"
+     style="stroke:#000000;stroke-width:1">
+    <line
+       x1="79.199997"
+       y1="341"
+       x2="599"
+       y2="341"
+       id="line958" />
+    <line
+       x1="79.199997"
+       y1="341"
+       x2="599"
+       y2="341"
+       id="line960" />
+  </g>
+  <g
+     id="yMinorTicks"
+     style="stroke:#000000;stroke-width:1">
+    <path
+       d="m 82.2,335.9 h 2 m -2,-5.2 h 2 m -2,-5.1 h 2 m -2,-5.2 h 2 m -2,-10.3 h 2 m -2,-5.1 h 2 m -2,-5.2 h 2 m -2,-5.1 h 2 m -2,-10.3 h 2 m -2,-5.1 h 2 m -2,-5.2 h 2 m -2,-5.1 h 2 m -2,-10.3 h 2 m -2,-5.2 h 2 m -2,-5.1 h 2 m -2,-5.2 h 2 m -2,-10.3 h 2 m -2,-5.1 h 2 m -2,-5.1 h 2 m -2,-5.2 h 2 m -2,-10.3 h 2 m -2,-5.1 h 2 m -2,-5.2 h 2 m -2,-5.1 h 2 m -2,-10.3 h 2 m -2,-5.2 h 2 m -2,-5.1 h 2 m -2,-5.1 h 2 m -2,-10.3 h 2 m -2,-5.2 h 2 m -2,-5.1 h 2 m -2,-5.2 h 2 m -2,-10.3 h 2 m -2,-5.1 h 2 m -2,-5.2 h 2 m -2,-5.1 h 2 m -2,-10.3 h 2 m -2,-5.14 h 2 m -2,-5.14 h 2 m -2,-5.15 h 2 m -2,-10.29 h 2 m -2,-5.14 h 2 m -2,-5.15 h 2 m -2,-5.14 h 2 M 82.2,341 h 2"
+       id="path963"
+       inkscape:connector-curvature="0"
+       style="fill:none" />
+  </g>
+  <g
+     id="xMinorTicks"
+     style="stroke:#000000;stroke-width:1" />
+  <g
+     id="yMajorTicks"
+     style="stroke:#000000;stroke-width:2">
+    <path
+       d="m 79.2,341 h 5 m -5,-25.7 h 5 m -5,-25.8 h 5 m -5,-25.7 h 5 m -5,-25.7 h 5 m -5,-25.7 h 5 m -5,-25.8 h 5 m -5,-25.7 h 5 m -5,-25.7 h 5 m -5,-25.7 h 5 m -5,-25.77 h 5 M 79.2,58 h 5 m -5,283 h 5"
+       id="path967"
+       inkscape:connector-curvature="0"
+       style="fill:none" />
+  </g>
+  <g
+     id="xMajorTicks"
+     style="stroke:#000000;stroke-width:2">
+    <path
+       d="m 212.9,341 v 5 m 257.4,-5 v 5 m -257.4,-5 v 5"
+       id="path970"
+       inkscape:connector-curvature="0"
+       style="fill:none" />
+  </g>
+  <g
+     id="xTicksValues">
+    <text
+       x="212.89999"
+       y="361.60001"
+       font-size="12"
+       id="text973"
+       style="font-size:12px;font-family:Verdana;text-anchor:middle">0</text>
+    <text
+       x="470.29999"
+       y="361.60001"
+       font-size="12"
+       id="text975"
+       style="font-size:12px;font-family:Verdana;text-anchor:middle">1</text>
+    <text
+       x="212.89999"
+       y="361.60001"
+       font-size="12"
+       id="text977"
+       style="font-size:12px;font-family:Verdana;text-anchor:middle">0</text>
+  </g>
+  <g
+     id="yTicksValues">
+    <text
+       x="73.199997"
+       y="343.39999"
+       font-size="12"
+       id="text980"
+       style="font-size:12px;font-family:Verdana;text-anchor:end">0</text>
+    <text
+       x="73.199997"
+       y="317.70001"
+       font-size="12"
+       id="text982"
+       style="font-size:12px;font-family:Verdana;text-anchor:end">0.1</text>
+    <text
+       x="73.199997"
+       y="291.89999"
+       font-size="12"
+       id="text984"
+       style="font-size:12px;font-family:Verdana;text-anchor:end">0.2</text>
+    <text
+       x="73.199997"
+       y="266.20001"
+       font-size="12"
+       id="text986"
+       style="font-size:12px;font-family:Verdana;text-anchor:end">0.3</text>
+    <text
+       x="73.199997"
+       y="240.5"
+       font-size="12"
+       id="text988"
+       style="font-size:12px;font-family:Verdana;text-anchor:end">0.4</text>
+    <text
+       x="73.199997"
+       y="214.8"
+       font-size="12"
+       id="text990"
+       style="font-size:12px;font-family:Verdana;text-anchor:end">0.5</text>
+    <text
+       x="73.199997"
+       y="189"
+       font-size="12"
+       id="text992"
+       style="font-size:12px;font-family:Verdana;text-anchor:end">0.6</text>
+    <text
+       x="73.199997"
+       y="163.3"
+       font-size="12"
+       id="text994"
+       style="font-size:12px;font-family:Verdana;text-anchor:end">0.7</text>
+    <text
+       x="73.199997"
+       y="137.60001"
+       font-size="12"
+       id="text996"
+       style="font-size:12px;font-family:Verdana;text-anchor:end">0.8</text>
+    <text
+       x="73.199997"
+       y="111.9"
+       font-size="12"
+       id="text998"
+       style="font-size:12px;font-family:Verdana;text-anchor:end">0.9</text>
+    <text
+       x="73.199997"
+       y="86.129997"
+       font-size="12"
+       id="text1000"
+       style="font-size:12px;font-family:Verdana;text-anchor:end">1</text>
+    <text
+       x="73.199997"
+       y="60.400002"
+       font-size="12"
+       id="text1002"
+       style="font-size:12px;font-family:Verdana;text-anchor:end">1.1</text>
+    <text
+       x="73.199997"
+       y="343.39999"
+       font-size="12"
+       id="text1004"
+       style="font-size:12px;font-family:Verdana;text-anchor:end">0</text>
+  </g>
+  <g
+     id="yLabel">
+    <text
+       x="42.900002"
+       y="199.5"
+       transform="rotate(-90,42.9,199.5)"
+       font-size="14"
+       id="text1007"
+       style="font-size:14px;font-family:Verdana;text-anchor:middle">Probability</text>
+  </g>
+  <g
+     id="xLabel">
+    <text
+       x="341.60001"
+       y="376.70001"
+       font-size="14"
+       id="text1010"
+       style="font-size:14px;font-family:Verdana;text-anchor:middle">Random Variable</text>
+  </g>
+  <g
+     id="plotLines"
+     style="stroke-width:2">
+    <g
+       clip-path="url(#plot_window)"
+       id="g1015"
+       style="fill:#00008b;stroke:#00008b;stroke-width:1">
+      <path
+         d="m 116.4,341 v 0 -193 h 64.3 V 341 H 373.8 V 83.73 h 64.3 V 341 v 0 z"
+         id="path1013"
+         inkscape:connector-curvature="0"
+         style="fill:#00008b" />
+    </g>
+    <g
+       clip-path="url(#plot_window)"
+       id="g1019"
+       style="fill:#8b0000;stroke:#8b0000;stroke-width:1">
+      <path
+         d="m 180.7,341 v 0 -128.6 h 64.4 V 341 h 193 V 83.73 h 64.3 V 341 v 0 z"
+         id="path1017"
+         inkscape:connector-curvature="0"
+         style="fill:#8b0000" />
+    </g>
+    <g
+       clip-path="url(#plot_window)"
+       id="g1023"
+       style="fill:#006400;stroke:#006400;stroke-width:1">
+      <path
+         d="m 245.1,341 v 0 -64.3 h 64.3 V 341 h 193 V 83.73 h 64.4 V 341 v 0 z"
+         id="path1021"
+         inkscape:connector-curvature="0"
+         style="fill:#006400" />
+    </g>
+  </g>
+  <g
+     id="plotPoints"
+     clip-path="url(#plot_window)" />
+  <g
+     id="legendBackground"
+     style="fill:#ffffff;stroke:#778899;stroke-width:1">
+    <rect
+       x="613"
+       y="58"
+       width="111"
+       height="105"
+       id="rect1027" />
+    <rect
+       x="613"
+       y="58"
+       width="111"
+       height="105"
+       id="rect1029" />
+  </g>
+  <g
+     id="legendPoints">
+    <g
+       id="g1034"
+       style="fill:#ffffff;stroke:#00008b;stroke-width:1">
+      <line
+         x1="628"
+         y1="88"
+         x2="643"
+         y2="88"
+         id="line1032" />
+    </g>
+    <g
+       id="g1038"
+       style="fill:#ffffff;stroke:#8b0000;stroke-width:1">
+      <line
+         x1="628"
+         y1="118"
+         x2="643"
+         y2="118"
+         id="line1036" />
+    </g>
+    <g
+       id="g1042"
+       style="fill:#ffffff;stroke:#006400;stroke-width:1">
+      <line
+         x1="628"
+         y1="148"
+         x2="643"
+         y2="148"
+         id="line1040" />
+    </g>
+  </g>
+  <g
+     id="legendText">
+    <text
+       x="650.5"
+       y="88"
+       font-size="15"
+       id="text1045"
+       style="font-size:15px;font-family:Verdana">p=0.25</text>
+    <text
+       x="650.5"
+       y="118"
+       font-size="15"
+       id="text1047"
+       style="font-size:15px;font-family:Verdana">p=0.5</text>
+    <text
+       x="650.5"
+       y="148"
+       font-size="15"
+       id="text1049"
+       style="font-size:15px;font-family:Verdana">p=0.75</text>
+  </g>
+  <g
+     id="title">
+    <text
+       x="375"
+       y="40"
+       font-size="20"
+       id="text1052"
+       style="font-size:20px;font-family:Verdana;text-anchor:middle">Bernoulli Distribution CDF</text>
+  </g>
+  <g
+     id="plotXValues" />
+  <g
+     id="plotYValues" />
+  <g
+     id="g1369"
+     transform="translate(748.95833)">
+    <g
+       id="imageBackground-9"
+       style="fill:#ffffff;stroke:#778899;stroke-width:2">
+      <rect
+         id="rect1187"
+         height="400"
+         width="750"
+         y="0"
+         x="0" />
+    </g>
+    <g
+       id="plotBackground-5"
+       style="fill:#ffffff;stroke:#778899;stroke-width:2">
+      <rect
+         id="rect1190"
+         height="283"
+         width="514.79999"
+         y="58"
+         x="84.199997" />
+    </g>
+    <g
+       id="yMinorGrid-0"
+       style="stroke:#c8dcff;stroke-width:0.5" />
+    <g
+       id="yMajorGrid-5"
+       style="stroke:#c8dcff;stroke-width:1" />
+    <g
+       id="xMinorGrid-1"
+       style="stroke:#c8dcff;stroke-width:0.5" />
+    <g
+       id="xMajorGrid-0"
+       style="stroke:#c8dcff;stroke-width:1" />
+    <g
+       id="yAxis-0"
+       style="stroke:#000000;stroke-width:1">
+      <line
+         id="line1197"
+         y2="346"
+         x2="212.89999"
+         y1="58"
+         x1="212.89999" />
+      <line
+         id="line1199"
+         y2="341"
+         x2="84.199997"
+         y1="58"
+         x1="84.199997" />
+    </g>
+    <g
+       id="xAxis-5"
+       style="stroke:#000000;stroke-width:1">
+      <line
+         id="line1202"
+         y2="341"
+         x2="599"
+         y1="341"
+         x1="79.199997" />
+      <line
+         id="line1204"
+         y2="341"
+         x2="599"
+         y1="341"
+         x1="79.199997" />
+    </g>
+    <g
+       id="yMinorTicks-1"
+       style="stroke:#000000;stroke-width:1">
+      <path
+         id="path1207"
+         d="m 82.2,334.1 h 2 m -2,-6.8 h 2 m -2,-6.9 h 2 m -2,-6.8 h 2 m -2,-13.8 h 2 m -2,-6.8 h 2 m -2,-6.9 h 2 m -2,-6.8 h 2 m -2,-13.8 h 2 m -2,-6.8 h 2 m -2,-6.9 h 2 m -2,-6.8 h 2 m -2,-13.8 h 2 m -2,-6.8 h 2 m -2,-6.9 h 2 m -2,-6.9 h 2 m -2,-13.7 h 2 m -2,-6.8 h 2 m -2,-6.9 h 2 m -2,-6.9 h 2 m -2,-13.7 h 2 m -2,-6.8 h 2 m -2,-6.9 h 2 m -2,-6.9 h 2 m -2,-13.7 h 2 m -2,-6.8 h 2 m -2,-6.9 h 2 m -2,-6.9 h 2 m -2,-13.68 h 2 m -2,-6.86 h 2 m -2,-6.86 h 2 m -2,-6.86 h 2 m -2,-13.72 h 2 M 82.2,341 h 2"
+         inkscape:connector-curvature="0"
+         style="fill:none" />
+    </g>
+    <g
+       id="xMinorTicks-3"
+       style="stroke:#000000;stroke-width:1" />
+    <g
+       id="yMajorTicks-0"
+       style="stroke:#000000;stroke-width:2">
+      <path
+         id="path1211"
+         d="m 79.2,341 h 5 m -5,-34.3 h 5 m -5,-34.3 h 5 m -5,-34.3 h 5 m -5,-34.3 h 5 m -5,-34.3 h 5 m -5,-34.3 h 5 m -5,-34.3 h 5 m -5,-34.32 h 5 M 79.2,341 h 5"
+         inkscape:connector-curvature="0"
+         style="fill:none" />
+    </g>
+    <g
+       id="xMajorTicks-2"
+       style="stroke:#000000;stroke-width:2">
+      <path
+         id="path1214"
+         d="m 212.9,341 v 5 m 257.4,-5 v 5 m -257.4,-5 v 5"
+         inkscape:connector-curvature="0"
+         style="fill:none" />
+    </g>
+    <g
+       id="xTicksValues-3">
+      <text
+         id="text1217"
+         font-size="12"
+         y="361.60001"
+         x="212.89999"
+         style="font-size:12px;font-family:Verdana;text-anchor:middle">0</text>
+      <text
+         id="text1219"
+         font-size="12"
+         y="361.60001"
+         x="470.29999"
+         style="font-size:12px;font-family:Verdana;text-anchor:middle">1</text>
+      <text
+         id="text1221"
+         font-size="12"
+         y="361.60001"
+         x="212.89999"
+         style="font-size:12px;font-family:Verdana;text-anchor:middle">0</text>
+    </g>
+    <g
+       id="yTicksValues-1">
+      <text
+         id="text1224"
+         font-size="12"
+         y="343.39999"
+         x="73.199997"
+         style="font-size:12px;font-family:Verdana;text-anchor:end">0</text>
+      <text
+         id="text1226"
+         font-size="12"
+         y="309.10001"
+         x="73.199997"
+         style="font-size:12px;font-family:Verdana;text-anchor:end">0.1</text>
+      <text
+         id="text1228"
+         font-size="12"
+         y="274.79999"
+         x="73.199997"
+         style="font-size:12px;font-family:Verdana;text-anchor:end">0.2</text>
+      <text
+         id="text1230"
+         font-size="12"
+         y="240.5"
+         x="73.199997"
+         style="font-size:12px;font-family:Verdana;text-anchor:end">0.3</text>
+      <text
+         id="text1232"
+         font-size="12"
+         y="206.2"
+         x="73.199997"
+         style="font-size:12px;font-family:Verdana;text-anchor:end">0.4</text>
+      <text
+         id="text1234"
+         font-size="12"
+         y="171.89999"
+         x="73.199997"
+         style="font-size:12px;font-family:Verdana;text-anchor:end">0.5</text>
+      <text
+         id="text1236"
+         font-size="12"
+         y="137.60001"
+         x="73.199997"
+         style="font-size:12px;font-family:Verdana;text-anchor:end">0.6</text>
+      <text
+         id="text1238"
+         font-size="12"
+         y="103.3"
+         x="73.199997"
+         style="font-size:12px;font-family:Verdana;text-anchor:end">0.7</text>
+      <text
+         id="text1240"
+         font-size="12"
+         y="68.980003"
+         x="73.199997"
+         style="font-size:12px;font-family:Verdana;text-anchor:end">0.8</text>
+      <text
+         id="text1242"
+         font-size="12"
+         y="343.39999"
+         x="73.199997"
+         style="font-size:12px;font-family:Verdana;text-anchor:end">0</text>
+    </g>
+    <g
+       id="yLabel-3">
+      <text
+         id="text1245"
+         font-size="14"
+         transform="rotate(-90,42.9,199.5)"
+         y="199.5"
+         x="42.900002"
+         style="font-size:14px;font-family:Verdana;text-anchor:middle">Probability</text>
+    </g>
+    <g
+       id="xLabel-1">
+      <text
+         id="text1248"
+         font-size="14"
+         y="376.70001"
+         x="341.60001"
+         style="font-size:14px;font-family:Verdana;text-anchor:middle">Random Variable</text>
+    </g>
+    <g
+       id="plotLines-3"
+       style="stroke-width:2">
+      <g
+         id="g1253"
+         clip-path="url(#plot_window-8)"
+         style="fill:#00008b;stroke:#00008b;stroke-width:1">
+        <path
+           id="path1251"
+           d="m 116.4,341 v 0 -257.27 h 64.3 V 341 h 193.1 v -85.8 h 64.3 v 85.8 0 z"
+           inkscape:connector-curvature="0"
+           style="fill:#00008b" />
+      </g>
+      <g
+         id="g1257"
+         clip-path="url(#plot_window-8)"
+         style="fill:#8b0000;stroke:#8b0000;stroke-width:1">
+        <path
+           id="path1255"
+           d="m 180.7,341 v 0 -171.5 h 64.4 V 341 h 193 V 169.5 h 64.3 v 171.5 0 z"
+           inkscape:connector-curvature="0"
+           style="fill:#8b0000" />
+      </g>
+      <g
+         id="g1261"
+         clip-path="url(#plot_window-8)"
+         style="fill:#006400;stroke:#006400;stroke-width:1">
+        <path
+           id="path1259"
+           d="m 245.1,341 v 0 -85.8 h 64.3 V 341 h 193 V 83.73 h 64.4 V 341 v 0 z"
+           inkscape:connector-curvature="0"
+           style="fill:#006400" />
+      </g>
+    </g>
+    <g
+       clip-path="url(#plot_window-8)"
+       id="plotPoints-3" />
+    <g
+       id="legendBackground-0"
+       style="fill:#ffffff;stroke:#778899;stroke-width:1">
+      <rect
+         id="rect1265"
+         height="105"
+         width="111"
+         y="58"
+         x="613" />
+      <rect
+         id="rect1267"
+         height="105"
+         width="111"
+         y="58"
+         x="613" />
+    </g>
+    <g
+       id="legendPoints-3">
+      <g
+         id="g1272"
+         style="fill:#ffffff;stroke:#00008b;stroke-width:1">
+        <line
+           id="line1270"
+           y2="88"
+           x2="643"
+           y1="88"
+           x1="628" />
+      </g>
+      <g
+         id="g1276"
+         style="fill:#ffffff;stroke:#8b0000;stroke-width:1">
+        <line
+           id="line1274"
+           y2="118"
+           x2="643"
+           y1="118"
+           x1="628" />
+      </g>
+      <g
+         id="g1280"
+         style="fill:#ffffff;stroke:#006400;stroke-width:1">
+        <line
+           id="line1278"
+           y2="148"
+           x2="643"
+           y1="148"
+           x1="628" />
+      </g>
+    </g>
+    <g
+       id="legendText-9">
+      <text
+         id="text1283"
+         font-size="15"
+         y="88"
+         x="650.5"
+         style="font-size:15px;font-family:Verdana">p=0.25</text>
+      <text
+         id="text1285"
+         font-size="15"
+         y="118"
+         x="650.5"
+         style="font-size:15px;font-family:Verdana">p=0.5</text>
+      <text
+         id="text1287"
+         font-size="15"
+         y="148"
+         x="650.5"
+         style="font-size:15px;font-family:Verdana">p=0.75</text>
+    </g>
+    <g
+       id="title-2">
+      <text
+         id="text1290"
+         font-size="20"
+         y="40"
+         x="375"
+         style="font-size:20px;font-family:Verdana;text-anchor:middle">Bernoulli Distribution PDF</text>
+    </g>
+    <g
+       id="plotXValues-6" />
+    <g
+       id="plotYValues-4" />
+  </g>
+</svg>

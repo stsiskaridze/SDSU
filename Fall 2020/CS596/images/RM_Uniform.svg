@@ -1,0 +1,859 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   version="1.2"
+   width="504mm"
+   height="176mm"
+   viewBox="2100 1900 50400 17600"
+   preserveAspectRatio="xMidYMid"
+   xml:space="preserve"
+   id="svg1308"
+   sodipodi:docname="Uniform.svg"
+   style="fill-rule:evenodd;stroke-width:28.22200012;stroke-linejoin:round"
+   inkscape:version="0.92.4 (5da689c313, 2019-01-14)"
+   inkscape:export-filename="C:\Users\USER\ISU\CS550\images\uniform.png"
+   inkscape:export-xdpi="50"
+   inkscape:export-ydpi="50"><metadata
+   id="metadata1312"><rdf:RDF><cc:Work
+       rdf:about=""><dc:format>image/svg+xml</dc:format><dc:type
+         rdf:resource="http://purl.org/dc/dcmitype/StillImage" /><dc:title /></cc:Work></rdf:RDF></metadata><sodipodi:namedview
+   pagecolor="#ffffff"
+   bordercolor="#666666"
+   borderopacity="1"
+   objecttolerance="10"
+   gridtolerance="10"
+   guidetolerance="10"
+   inkscape:pageopacity="0"
+   inkscape:pageshadow="2"
+   inkscape:window-width="1920"
+   inkscape:window-height="1017"
+   id="namedview1310"
+   showgrid="false"
+   inkscape:zoom="0.6374053"
+   inkscape:cx="518.26339"
+   inkscape:cy="503.02986"
+   inkscape:window-x="-8"
+   inkscape:window-y="-8"
+   inkscape:window-maximized="1"
+   inkscape:current-layer="Drawing_16" />
+ <defs
+   id="defs1207">
+  <font
+   id="EmbeddedFont_1"
+   horiz-adv-x="2048"
+   horiz-origin-x="0"
+   horiz-origin-y="0"
+   vert-origin-x="45"
+   vert-origin-y="90"
+   vert-adv-y="90">
+   <font-face
+   font-family="OpenSymbol embedded"
+   units-per-em="2048"
+   font-weight="normal"
+   font-style="normal"
+   ascent="1640"
+   descent="397"
+   id="font-face1198" />
+   <missing-glyph
+   horiz-adv-x="2048"
+   d="M 0,0 L 2047,0 2047,2047 0,2047 0,0 Z"
+   id="missing-glyph1200" />
+   <glyph
+   unicode=")"
+   horiz-adv-x="398"
+   d="M 123,-434 C 318,-246 416,112 416,641 416,1162 318,1521 123,1716 L 123,1767 C 269,1651 375,1480 442,1253 497,1074 524,870 524,641 524,109 390,-266 123,-483 L 123,-434 Z"
+   id="glyph1202" />
+   <glyph
+   unicode="("
+   horiz-adv-x="398"
+   d="M 573,-434 L 573,-483 C 306,-259 172,116 172,641 172,1172 306,1548 573,1767 L 573,1716 C 378,1524 281,1166 281,641 281,111 378,-247 573,-434 Z"
+   id="glyph1204" />
+  </font>
+ <font
+   horiz-adv-x="2048"
+   id="EmbeddedFont_1-6"
+   horiz-origin-x="0"
+   horiz-origin-y="0"
+   vert-origin-x="45"
+   vert-origin-y="90"
+   vert-adv-y="90">
+   <font-face
+   id="font-face1465"
+   descent="397"
+   ascent="1640"
+   font-style="normal"
+   font-weight="normal"
+   units-per-em="2048"
+   font-family="OpenSymbol embedded" />
+   <missing-glyph
+   id="missing-glyph1467"
+   d="M 0,0 L 2047,0 2047,2047 0,2047 0,0 Z"
+   horiz-adv-x="2048" />
+   <glyph
+   id="glyph1469"
+   d="M 221,543 L 221,641 1405,641 1405,543 221,543 Z"
+   horiz-adv-x="1165"
+   unicode="−" />
+   <glyph
+   id="glyph1471"
+   d="M 123,-434 C 318,-246 416,112 416,641 416,1162 318,1521 123,1716 L 123,1767 C 269,1651 375,1480 442,1253 497,1074 524,870 524,641 524,109 390,-266 123,-483 L 123,-434 Z"
+   horiz-adv-x="398"
+   unicode=")" />
+   <glyph
+   id="glyph1473"
+   d="M 573,-434 L 573,-483 C 306,-259 172,116 172,641 172,1172 306,1548 573,1767 L 573,1716 C 378,1524 281,1166 281,641 281,111 378,-247 573,-434 Z"
+   horiz-adv-x="398"
+   unicode="(" />
+  </font><font
+   horiz-adv-x="2048"
+   id="EmbeddedFont_2-0"
+   horiz-origin-x="0"
+   horiz-origin-y="0"
+   vert-origin-x="45"
+   vert-origin-y="90"
+   vert-adv-y="90">
+   <font-face
+   id="font-face1478"
+   descent="503"
+   ascent="1826"
+   font-style="normal"
+   font-weight="normal"
+   units-per-em="2048"
+   font-family="Times New Roman embedded" />
+   <missing-glyph
+   id="missing-glyph1480"
+   d="M 0,0 L 2047,0 2047,2047 0,2047 0,0 Z"
+   horiz-adv-x="2048" />
+   <glyph
+   id="glyph1482"
+   d="M 240,1223 L 570,1384 603,1384 603,239 C 603,163 606,116 613,97 619,78 632,64 652,54 672,44 713,38 774,37 L 774,0 264,0 264,37 C 328,38 369,44 388,54 407,63 420,76 427,93 434,109 438,158 438,239 L 438,971 C 438,1070 435,1133 428,1161 423,1182 415,1198 403,1208 390,1218 375,1223 358,1223 333,1223 299,1213 255,1192 L 240,1223 Z"
+   horiz-adv-x="530"
+   unicode="1" />
+   <glyph
+   id="glyph1484"
+   d="M 74,670 C 74,825 97,958 144,1070 191,1181 253,1264 330,1319 390,1362 452,1384 516,1384 620,1384 713,1331 796,1225 899,1094 951,916 951,691 951,534 928,400 883,290 838,180 780,100 710,51 639,1 571,-24 506,-24 377,-24 269,52 183,205 110,334 74,489 74,670 Z M 270,645 C 270,458 293,306 339,188 377,89 434,39 509,39 545,39 582,55 621,88 660,120 689,174 709,250 740,365 755,526 755,735 755,890 739,1019 707,1122 683,1199 652,1253 614,1285 587,1307 554,1318 515,1318 470,1318 429,1298 394,1257 346,1202 313,1115 296,996 279,877 270,760 270,645 Z"
+   horiz-adv-x="901"
+   unicode="0" />
+  </font><font
+   horiz-adv-x="2048"
+   id="EmbeddedFont_3-3"
+   horiz-origin-x="0"
+   horiz-origin-y="0"
+   vert-origin-x="45"
+   vert-origin-y="90"
+   vert-adv-y="90">
+   <font-face
+   id="font-face1489"
+   descent="503"
+   ascent="1826"
+   font-style="italic"
+   font-weight="normal"
+   units-per-em="2048"
+   font-family="Times New Roman embedded" />
+   <missing-glyph
+   id="missing-glyph1491"
+   d="M 0,0 L 2047,0 2047,2047 0,2047 0,0 Z"
+   horiz-adv-x="2048" />
+   <glyph
+   id="glyph1493"
+   d="M 355,905 C 388,870 412,836 429,801 441,777 461,714 488,612 L 576,744 C 599,776 628,807 661,836 694,865 724,884 749,895 765,902 783,905 802,905 831,905 854,897 871,882 888,867 896,848 896,826 896,801 891,783 881,774 862,757 841,749 817,749 803,749 788,752 772,758 741,769 720,774 709,774 693,774 674,765 652,746 611,711 561,644 504,545 L 586,201 C 599,148 609,117 618,107 627,96 635,91 644,91 658,91 674,99 693,114 730,145 761,185 787,234 L 822,216 C 780,137 727,72 662,20 625,-9 594,-24 569,-24 532,-24 502,-3 480,39 466,65 437,177 393,375 289,194 206,78 143,26 102,-7 63,-24 25,-24 -2,-24 -26,-14 -48,5 -64,20 -72,39 -72,64 -72,86 -65,104 -50,119 -35,134 -17,141 4,141 25,141 48,130 72,109 89,94 103,86 112,86 120,86 130,91 143,102 174,127 217,182 271,266 325,350 360,411 377,448 336,610 313,696 310,705 295,748 275,779 250,797 225,815 189,824 141,824 126,824 108,823 88,822 L 88,858 355,905 Z"
+   horiz-adv-x="953"
+   unicode="x" />
+   <glyph
+   id="glyph1495"
+   d="M 607,881 L 589,815 443,815 333,378 C 284,185 235,36 186,-69 116,-218 41,-320 -40,-377 -101,-420 -163,-442 -224,-442 -264,-442 -298,-430 -326,-406 -347,-389 -357,-368 -357,-341 -357,-320 -348,-301 -331,-285 -314,-270 -294,-262 -269,-262 -251,-262 -236,-268 -223,-279 -211,-290 -205,-303 -205,-318 -205,-333 -212,-346 -226,-359 -237,-368 -242,-375 -242,-380 -242,-386 -240,-391 -235,-394 -229,-399 -220,-401 -207,-401 -178,-401 -148,-392 -116,-374 -85,-356 -57,-329 -32,-293 -7,-258 16,-206 38,-139 47,-111 72,-19 113,138 L 287,815 113,815 127,881 C 182,881 221,885 243,893 265,900 285,915 304,937 322,958 346,999 375,1058 414,1138 452,1200 488,1244 537,1303 589,1348 644,1378 698,1407 749,1422 797,1422 848,1422 888,1409 919,1384 950,1358 965,1330 965,1300 965,1277 957,1257 942,1241 927,1225 907,1217 883,1217 862,1217 846,1223 833,1235 820,1247 813,1261 813,1278 813,1289 817,1302 826,1318 835,1333 839,1344 839,1349 839,1358 836,1365 830,1370 821,1377 809,1380 792,1380 750,1380 712,1367 679,1340 634,1305 594,1249 559,1174 541,1135 508,1037 460,881 L 607,881 Z"
+   horiz-adv-x="1324"
+   unicode="f" />
+   <glyph
+   id="glyph1497"
+   d="M 591,1422 L 394,731 C 458,798 514,843 562,868 609,893 659,905 711,905 784,905 844,881 891,832 938,783 961,717 961,634 961,527 930,420 869,314 808,207 731,124 638,65 545,6 454,-24 364,-24 263,-24 160,14 54,89 L 358,1136 C 381,1217 393,1264 393,1278 393,1295 388,1308 377,1317 362,1329 339,1335 309,1335 295,1335 274,1333 245,1328 L 245,1366 591,1422 Z M 204,78 C 271,41 329,23 380,23 439,23 500,45 563,88 626,131 680,203 727,305 773,407 796,510 796,614 796,675 781,723 751,758 720,793 684,810 643,810 581,810 520,785 461,736 402,686 359,617 334,528 L 204,78 Z"
+   horiz-adv-x="875"
+   unicode="b" />
+   <glyph
+   id="glyph1499"
+   d="M 961,905 L 766,227 744,136 C 742,127 741,120 741,114 741,103 744,94 751,86 756,80 763,77 771,77 780,77 791,82 805,93 831,112 866,152 909,213 L 943,189 C 897,120 850,67 801,31 752,-6 707,-24 666,-24 637,-24 616,-17 602,-2 587,12 580,33 580,60 580,93 587,136 602,189 L 623,264 C 536,150 455,70 382,25 329,-8 278,-24 227,-24 178,-24 136,-4 101,37 66,77 48,132 48,203 48,309 80,421 144,539 207,656 288,750 386,821 463,877 535,905 603,905 644,905 678,894 705,873 732,852 752,816 766,767 L 802,881 961,905 Z M 605,853 C 562,853 517,833 469,793 401,736 341,652 288,541 235,430 208,329 208,239 208,194 219,158 242,132 265,105 291,92 320,92 393,92 472,146 557,253 671,396 728,542 728,692 728,749 717,790 695,815 673,840 643,853 605,853 Z"
+   horiz-adv-x="1007"
+   unicode="a" />
+  </font>
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+ 
+  
+  
+ 
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+ 
+   
+   
+   
+   
+  
+   
+   
+  
+   
+  
+   
+  
+   
+  
+   
+   
+  
+   
+  
+   
+  
+   
+  
+   
+  
+   
+  
+   
+  
+   
+  </defs>
+ <defs
+   id="defs1218">
+  <font
+   id="EmbeddedFont_2"
+   horiz-adv-x="2048"
+   horiz-origin-x="0"
+   horiz-origin-y="0"
+   vert-origin-x="45"
+   vert-origin-y="90"
+   vert-adv-y="90">
+   <font-face
+   font-family="Times New Roman embedded"
+   units-per-em="2048"
+   font-weight="normal"
+   font-style="normal"
+   ascent="1826"
+   descent="503"
+   id="font-face1209" />
+   <missing-glyph
+   horiz-adv-x="2048"
+   d="M 0,0 L 2047,0 2047,2047 0,2047 0,0 Z"
+   id="missing-glyph1211" />
+   <glyph
+   unicode="1"
+   horiz-adv-x="530"
+   d="M 240,1223 L 570,1384 603,1384 603,239 C 603,163 606,116 613,97 619,78 632,64 652,54 672,44 713,38 774,37 L 774,0 264,0 264,37 C 328,38 369,44 388,54 407,63 420,76 427,93 434,109 438,158 438,239 L 438,971 C 438,1070 435,1133 428,1161 423,1182 415,1198 403,1208 390,1218 375,1223 358,1223 333,1223 299,1213 255,1192 L 240,1223 Z"
+   id="glyph1213" />
+   <glyph
+   unicode="0"
+   horiz-adv-x="901"
+   d="M 74,670 C 74,825 97,958 144,1070 191,1181 253,1264 330,1319 390,1362 452,1384 516,1384 620,1384 713,1331 796,1225 899,1094 951,916 951,691 951,534 928,400 883,290 838,180 780,100 710,51 639,1 571,-24 506,-24 377,-24 269,52 183,205 110,334 74,489 74,670 Z M 270,645 C 270,458 293,306 339,188 377,89 434,39 509,39 545,39 582,55 621,88 660,120 689,174 709,250 740,365 755,526 755,735 755,890 739,1019 707,1122 683,1199 652,1253 614,1285 587,1307 554,1318 515,1318 470,1318 429,1298 394,1257 346,1202 313,1115 296,996 279,877 270,760 270,645 Z"
+   id="glyph1215" />
+  </font>
+ </defs>
+ <defs
+   id="defs1233">
+  <font
+   id="EmbeddedFont_3"
+   horiz-adv-x="2048"
+   horiz-origin-x="0"
+   horiz-origin-y="0"
+   vert-origin-x="45"
+   vert-origin-y="90"
+   vert-adv-y="90">
+   <font-face
+   font-family="Times New Roman embedded"
+   units-per-em="2048"
+   font-weight="normal"
+   font-style="italic"
+   ascent="1826"
+   descent="503"
+   id="font-face1220" />
+   <missing-glyph
+   horiz-adv-x="2048"
+   d="M 0,0 L 2047,0 2047,2047 0,2047 0,0 Z"
+   id="missing-glyph1222" />
+   <glyph
+   unicode="x"
+   horiz-adv-x="953"
+   d="M 355,905 C 388,870 412,836 429,801 441,777 461,714 488,612 L 576,744 C 599,776 628,807 661,836 694,865 724,884 749,895 765,902 783,905 802,905 831,905 854,897 871,882 888,867 896,848 896,826 896,801 891,783 881,774 862,757 841,749 817,749 803,749 788,752 772,758 741,769 720,774 709,774 693,774 674,765 652,746 611,711 561,644 504,545 L 586,201 C 599,148 609,117 618,107 627,96 635,91 644,91 658,91 674,99 693,114 730,145 761,185 787,234 L 822,216 C 780,137 727,72 662,20 625,-9 594,-24 569,-24 532,-24 502,-3 480,39 466,65 437,177 393,375 289,194 206,78 143,26 102,-7 63,-24 25,-24 -2,-24 -26,-14 -48,5 -64,20 -72,39 -72,64 -72,86 -65,104 -50,119 -35,134 -17,141 4,141 25,141 48,130 72,109 89,94 103,86 112,86 120,86 130,91 143,102 174,127 217,182 271,266 325,350 360,411 377,448 336,610 313,696 310,705 295,748 275,779 250,797 225,815 189,824 141,824 126,824 108,823 88,822 L 88,858 355,905 Z"
+   id="glyph1224" />
+   <glyph
+   unicode="b"
+   horiz-adv-x="875"
+   d="M 591,1422 L 394,731 C 458,798 514,843 562,868 609,893 659,905 711,905 784,905 844,881 891,832 938,783 961,717 961,634 961,527 930,420 869,314 808,207 731,124 638,65 545,6 454,-24 364,-24 263,-24 160,14 54,89 L 358,1136 C 381,1217 393,1264 393,1278 393,1295 388,1308 377,1317 362,1329 339,1335 309,1335 295,1335 274,1333 245,1328 L 245,1366 591,1422 Z M 204,78 C 271,41 329,23 380,23 439,23 500,45 563,88 626,131 680,203 727,305 773,407 796,510 796,614 796,675 781,723 751,758 720,793 684,810 643,810 581,810 520,785 461,736 402,686 359,617 334,528 L 204,78 Z"
+   id="glyph1226" />
+   <glyph
+   unicode="a"
+   horiz-adv-x="1007"
+   d="M 961,905 L 766,227 744,136 C 742,127 741,120 741,114 741,103 744,94 751,86 756,80 763,77 771,77 780,77 791,82 805,93 831,112 866,152 909,213 L 943,189 C 897,120 850,67 801,31 752,-6 707,-24 666,-24 637,-24 616,-17 602,-2 587,12 580,33 580,60 580,93 587,136 602,189 L 623,264 C 536,150 455,70 382,25 329,-8 278,-24 227,-24 178,-24 136,-4 101,37 66,77 48,132 48,203 48,309 80,421 144,539 207,656 288,750 386,821 463,877 535,905 603,905 644,905 678,894 705,873 732,852 752,816 766,767 L 802,881 961,905 Z M 605,853 C 562,853 517,833 469,793 401,736 341,652 288,541 235,430 208,329 208,239 208,194 219,158 242,132 265,105 291,92 320,92 393,92 472,146 557,253 671,396 728,542 728,692 728,749 717,790 695,815 673,840 643,853 605,853 Z"
+   id="glyph1228" />
+   <glyph
+   unicode="F"
+   horiz-adv-x="1403"
+   d="M 666,1284 L 506,747 684,747 C 764,747 824,759 864,784 903,809 944,861 986,942 L 1024,942 883,448 843,448 C 853,488 858,521 858,547 858,588 845,619 818,642 791,664 740,675 666,675 L 486,675 368,266 C 347,193 336,145 336,121 336,96 345,77 364,64 382,51 427,42 498,37 L 486,0 -50,0 -37,37 C 15,38 50,43 67,51 94,62 113,78 126,97 144,124 165,181 190,266 L 429,1083 C 448,1149 458,1201 458,1238 458,1255 454,1270 445,1283 436,1295 424,1304 407,1310 390,1316 356,1319 305,1319 L 317,1356 1369,1356 1269,1013 1231,1013 C 1238,1054 1242,1088 1242,1115 1242,1159 1230,1194 1206,1220 1181,1245 1150,1263 1112,1274 1085,1281 1026,1284 933,1284 L 666,1284 Z"
+   id="glyph1230" />
+  </font>
+ </defs>
+ <g
+   visibility="visible"
+   id="MasterSlide_1_Default"
+   style="visibility:visible"
+   transform="translate(0,456.60378)">
+  <desc
+   id="desc1235">Master slide
+  </desc>
+  <rect
+   x="0"
+   y="0"
+   width="29700"
+   height="21000"
+   id="rect1237"
+   style="fill:none;stroke:none" />
+ </g>
+ <path
+   id="Drawing_1_0"
+   d="M 15800,17356.604 H 5800 V 3856.6038 H 25800 V 17356.604 Z"
+   inkscape:connector-curvature="0"
+   style="visibility:visible;fill:none;stroke:#000000;stroke-linejoin:round" /><path
+   id="Drawing_2_0"
+   d="m 5800,17356.604 v 500"
+   inkscape:connector-curvature="0"
+   style="visibility:visible;fill:none;stroke:#000000;stroke-width:50;stroke-linejoin:round" /><path
+   id="Drawing_3_0"
+   d="M 5800,17356.604 H 5300"
+   inkscape:connector-curvature="0"
+   style="visibility:visible;fill:none;stroke:#000000;stroke-width:50;stroke-linejoin:round" /><path
+   id="Drawing_4_0"
+   d="m 5500,17356.604 h 6500"
+   inkscape:connector-curvature="0"
+   style="visibility:visible;fill:none;stroke:#0099ff;stroke-width:100;stroke-linejoin:round" /><path
+   id="Drawing_5_0"
+   d="M 12000,17456.604 19500,3956.6038"
+   inkscape:connector-curvature="0"
+   style="visibility:visible;fill:none;stroke:#0099ff;stroke-width:100;stroke-linejoin:round" /><path
+   id="Drawing_6_0"
+   d="m 19500,3856.6038 h 6500"
+   inkscape:connector-curvature="0"
+   style="visibility:visible;fill:none;stroke:#0099ff;stroke-width:100;stroke-linejoin:round" /><path
+   id="Drawing_7_0"
+   d="M 19500,17456.604 V 3956.6038"
+   inkscape:connector-curvature="0"
+   style="visibility:visible;fill:none;stroke:#0099ff;stroke-width:50;stroke-linejoin:round;stroke-dasharray:508, 508, 508, 508" /><rect
+   x="4591"
+   y="17683.604"
+   width="1138"
+   height="1657"
+   id="rect1261"
+   style="visibility:visible;fill:none;stroke:none" /><g
+   font-size="1270"
+   font-style="normal"
+   font-weight="400"
+   id="g1265"
+   style="font-style:normal;font-weight:400;font-size:1270px;font-family:'Times New Roman embedded';visibility:visible;fill:#000000;stroke:none"
+   transform="translate(0,456.60378)">
+    <text
+   x="4841"
+   y="18482"
+   id="text1263">0</text>
+
+
+   </g><g
+   font-size="1902"
+   font-style="italic"
+   font-weight="400"
+   id="g1270"
+   style="font-style:italic;font-weight:400;font-size:1902px;font-family:'Times New Roman embedded';visibility:visible;fill:#000000;stroke:none"
+   transform="translate(0,456.60378)">
+    <text
+   x="11580"
+   y="18669"
+   id="text1268">a</text>
+
+
+   </g><g
+   font-size="1906"
+   font-style="italic"
+   font-weight="400"
+   id="g1275"
+   style="font-style:italic;font-weight:400;font-size:1906px;font-family:'Times New Roman embedded';visibility:visible;fill:#000000;stroke:none"
+   transform="translate(0,456.60378)">
+    <text
+   x="19082"
+   y="18768"
+   id="text1273">b</text>
+
+
+   </g><g
+   font-size="1906"
+   font-style="italic"
+   font-weight="400"
+   id="g1280"
+   style="font-style:italic;font-weight:400;font-size:1906px;font-family:'Times New Roman embedded';visibility:visible;fill:#000000;stroke:none"
+   transform="translate(0,456.60378)">
+    <text
+   x="25597"
+   y="18566"
+   id="text1278">x</text>
+
+
+   </g><rect
+   x="4500"
+   y="2956.6038"
+   width="1138"
+   height="2157"
+   id="rect1283"
+   style="visibility:visible;fill:none;stroke:none" /><g
+   font-size="1270"
+   font-style="normal"
+   font-weight="400"
+   id="g1287"
+   style="font-style:normal;font-weight:400;font-size:1270px;font-family:'Times New Roman embedded';visibility:visible;fill:#000000;stroke:none"
+   transform="translate(0,456.60378)">
+    <text
+   x="4750"
+   y="3755"
+   id="text1285">1</text>
+
+
+   </g><g
+   id="g1918"
+   transform="rotate(-90,3801.1957,5189.5771)"><g
+     id="g1928"
+     transform="translate(-1079.2453,996.22644)"><g
+       font-size="1169"
+       font-style="italic"
+       font-weight="400"
+       id="g1292"
+       style="font-style:italic;font-weight:400;font-size:1169px;font-family:'Times New Roman embedded';visibility:visible;fill:#000000;stroke:none">
+    <text
+   x="2746"
+   y="5184"
+   id="text1290">F</text>
+
+
+   </g><g
+       font-size="1169"
+       font-style="normal"
+       font-weight="400"
+       id="g1296"
+       style="font-style:normal;font-weight:400;font-size:1169px;font-family:'OpenSymbol embedded';visibility:visible;fill:#000000;stroke:none">
+    <text
+   x="3701"
+   y="5184"
+   id="text1294">(</text>
+
+
+   </g><g
+       transform="matrix(1.1614835,0,0,1,-798.82126,0)"
+       font-size="1169"
+       font-style="italic"
+       font-weight="400"
+       id="g1300"
+       style="font-style:italic;font-weight:400;font-size:1169px;font-family:'Times New Roman embedded';visibility:visible;fill:#000000;stroke:none">
+    <text
+   x="4215"
+   y="5184"
+   id="text1298">x</text>
+
+
+   </g><g
+       font-size="1169"
+       font-style="normal"
+       font-weight="400"
+       id="g1304"
+       style="font-style:normal;font-weight:400;font-size:1169px;font-family:'OpenSymbol embedded';visibility:visible;fill:#000000;stroke:none">
+    <text
+   x="4804"
+   y="5184"
+   id="text1302">)</text>
+
+
+   </g></g></g>
+<rect
+   id="rect1506"
+   height="21000"
+   width="29700"
+   y="456.60379"
+   x="24596.643"
+   style="visibility:visible;fill:none;fill-rule:evenodd;stroke:none;stroke-width:28.22200012;stroke-linejoin:round" /><g
+   style="visibility:visible;fill-rule:evenodd;stroke-width:28.22200012;stroke-linejoin:round"
+   id="g1510"
+   transform="translate(24596.643,456.60378)">
+   <path
+   d="M 15800,16900 H 5800 V 3400 h 20000 v 13500 z"
+   id="Drawing_1_0-5"
+   inkscape:connector-curvature="0"
+   style="fill:none;stroke:#000000;stroke-linejoin:round" />
+  </g><g
+   style="visibility:visible;fill-rule:evenodd;stroke-width:28.22200012;stroke-linejoin:round"
+   id="g1513"
+   transform="translate(24596.643,456.60378)">
+   <path
+   d="m 5800,16900 v 500"
+   id="Drawing_2_0-8"
+   inkscape:connector-curvature="0"
+   style="fill:none;stroke:#000000;stroke-width:50;stroke-linejoin:round" />
+  </g><g
+   style="visibility:visible;fill-rule:evenodd;stroke-width:28.22200012;stroke-linejoin:round"
+   id="g1516"
+   transform="translate(24596.643,456.60378)">
+   <path
+   d="M 5800,16900 H 5300"
+   id="Drawing_3_0-3"
+   inkscape:connector-curvature="0"
+   style="fill:none;stroke:#000000;stroke-width:50;stroke-linejoin:round" />
+  </g><g
+   style="visibility:visible;fill-rule:evenodd;stroke-width:28.22200012;stroke-linejoin:round"
+   id="g1519"
+   transform="translate(24596.643,456.60378)">
+   <path
+   d="M 5800,7900 H 5300"
+   id="Drawing_4_0-5"
+   inkscape:connector-curvature="0"
+   style="fill:none;stroke:#000000;stroke-width:50;stroke-linejoin:round" />
+  </g><g
+   style="visibility:visible;fill-rule:evenodd;stroke-width:28.22200012;stroke-linejoin:round"
+   id="g1522"
+   transform="translate(24596.643,456.60378)">
+   <path
+   d="m 5800,16900 h 6000"
+   id="Drawing_5_0-8"
+   inkscape:connector-curvature="0"
+   style="fill:none;stroke:#0099ff;stroke-width:100;stroke-linejoin:round" />
+  </g><g
+   style="visibility:visible;fill-rule:evenodd;stroke-width:28.22200012;stroke-linejoin:round"
+   id="g1525"
+   transform="translate(24596.643,456.60378)">
+   <path
+   d="m 12050,17100 c -46,0 -85,-10 -125,-33 -40,-24 -68,-52 -92,-92 -23,-40 -33,-79 -33,-125 0,-46 10,-85 33,-125 24,-40 52,-68 92,-92 40,-23 79,-33 125,-33 46,0 85,10 125,33 40,24 68,52 92,92 23,40 33,79 33,125 0,46 -10,85 -33,125 -24,40 -52,68 -92,92 -40,23 -79,33 -125,33 z"
+   id="Drawing_6_0-4"
+   inkscape:connector-curvature="0"
+   style="fill:#ffffff;stroke:#0099ff;stroke-linejoin:round" />
+  </g><g
+   style="visibility:visible;fill-rule:evenodd;stroke-width:28.22200012;stroke-linejoin:round"
+   id="g1528"
+   transform="translate(24596.643,456.60378)">
+   <path
+   d="m 19549,17099 c -46,0 -85,-10 -125,-33 -40,-24 -68,-52 -92,-92 -23,-40 -33,-79 -33,-125 0,-46 10,-85 33,-125 24,-40 52,-68 92,-92 40,-23 79,-33 125,-33 46,0 85,10 125,33 40,24 68,52 92,92 23,40 33,79 33,125 0,46 -10,85 -33,125 -24,40 -52,68 -92,92 -40,23 -79,33 -125,33 z"
+   id="Drawing_7_0-3"
+   inkscape:connector-curvature="0"
+   style="fill:#ffffff;stroke:#0099ff;stroke-linejoin:round" />
+  </g><g
+   style="visibility:visible;fill-rule:evenodd;stroke-width:28.22200012;stroke-linejoin:round"
+   id="g1531"
+   transform="translate(24596.643,456.60378)">
+   <path
+   d="m 12049,8099 c -46,0 -85,-10 -125,-33 -40,-24 -68,-52 -92,-92 -23,-40 -33,-79 -33,-125 0,-46 10,-85 33,-125 24,-40 52,-68 92,-92 40,-23 79,-33 125,-33 46,0 85,10 125,33 40,24 68,52 92,92 23,40 33,79 33,125 0,46 -10,85 -33,125 -24,40 -52,68 -92,92 -40,23 -79,33 -125,33 z"
+   id="Drawing_8_0"
+   inkscape:connector-curvature="0"
+   style="fill:#0099ff;stroke:#0099ff;stroke-linejoin:round" />
+  </g><g
+   style="visibility:visible;fill-rule:evenodd;stroke-width:28.22200012;stroke-linejoin:round"
+   id="g1534"
+   transform="translate(24596.643,456.60378)">
+   <path
+   d="m 19549,8099 c -46,0 -85,-10 -125,-33 -40,-24 -68,-52 -92,-92 -23,-40 -33,-79 -33,-125 0,-46 10,-85 33,-125 24,-40 52,-68 92,-92 40,-23 79,-33 125,-33 46,0 85,10 125,33 40,24 68,52 92,92 23,40 33,79 33,125 0,46 -10,85 -33,125 -24,40 -52,68 -92,92 -40,23 -79,33 -125,33 z"
+   id="Drawing_9_0"
+   inkscape:connector-curvature="0"
+   style="fill:#0099ff;stroke:#0099ff;stroke-linejoin:round" />
+  </g><g
+   style="visibility:visible;fill-rule:evenodd;stroke-width:28.22200012;stroke-linejoin:round"
+   id="g1537"
+   transform="translate(24596.643,456.60378)">
+   <path
+   d="m 12300,7900 h 7000"
+   id="Drawing_10_0"
+   inkscape:connector-curvature="0"
+   style="fill:none;stroke:#0099ff;stroke-width:100;stroke-linejoin:round" />
+  </g><g
+   style="visibility:visible;fill-rule:evenodd;stroke-width:28.22200012;stroke-linejoin:round"
+   id="g1540"
+   transform="translate(24596.643,456.60378)">
+   <path
+   d="m 19800,16900 h 6000"
+   id="Drawing_11_0"
+   inkscape:connector-curvature="0"
+   style="fill:none;stroke:#0099ff;stroke-width:100;stroke-linejoin:round" />
+  </g><g
+   style="visibility:visible;fill-rule:evenodd;stroke-width:28.22200012;stroke-linejoin:round"
+   id="g1543"
+   transform="translate(24596.643,456.60378)">
+   <path
+   d="m 12100,8100 v 8500"
+   id="Drawing_12_0"
+   inkscape:connector-curvature="0"
+   style="fill:none;stroke:#0099ff;stroke-width:50;stroke-linejoin:round;stroke-dasharray:508, 508, 508, 508" />
+  </g><g
+   style="visibility:visible;fill-rule:evenodd;stroke-width:28.22200012;stroke-linejoin:round"
+   id="g1546"
+   transform="translate(24596.643,456.60378)">
+   <path
+   d="M 19600,16600 V 8100"
+   id="Drawing_13_0"
+   inkscape:connector-curvature="0"
+   style="fill:none;stroke:#0099ff;stroke-width:50;stroke-linejoin:round;stroke-dasharray:508, 508, 508, 508" />
+  </g><g
+   style="visibility:visible;fill-rule:evenodd;stroke-width:28.22200012;stroke-linejoin:round"
+   id="g1549"
+   transform="translate(24596.643,456.60378)">
+   <path
+   d="m 5800,7900 h 6000"
+   id="Drawing_14_0"
+   inkscape:connector-curvature="0"
+   style="fill:none;stroke:#000000;stroke-width:50;stroke-linejoin:round;stroke-dasharray:50, 457" />
+  </g><g
+   style="visibility:visible;fill-rule:evenodd;stroke-width:28.22200012;stroke-linejoin:round"
+   id="Drawing_15"
+   transform="translate(24596.643,456.60378)">
+   <rect
+   id="rect1551"
+   height="1657"
+   width="1138"
+   y="17227"
+   x="4591"
+   style="fill:none;stroke:none" />
+   <g
+   id="g1555"
+   font-weight="400"
+   font-style="normal"
+   font-size="1270"
+   style="font-style:normal;font-weight:400;font-size:1270px;font-family:'Times New Roman embedded';fill:#000000;stroke:none">
+    <text
+   id="text1553"
+   y="18482"
+   x="4841">0</text>
+
+
+   </g>
+  </g><g
+   style="visibility:visible;fill-rule:evenodd;stroke-width:28.22200012;stroke-linejoin:round"
+   id="Drawing_16"
+   transform="translate(24596.643,456.60378)">
+   <g
+   id="g1562"
+   font-weight="400"
+   font-style="normal"
+   font-size="1187"
+   style="font-style:normal;font-weight:400;font-size:1187px;font-family:'Times New Roman embedded';fill:#000000;stroke:none">
+    <text
+   id="text1558"
+   y="7508"
+   x="3560">1</text>
+
+
+    <rect
+   id="rect1560"
+   height="59"
+   width="2430"
+   y="7882"
+   x="2666"
+   style="fill:#000000;stroke:none" />
+   </g>
+   <g
+   id="g1566"
+   font-weight="400"
+   font-style="italic"
+   font-size="1187"
+   style="font-style:italic;font-weight:400;font-size:1187px;font-family:'Times New Roman embedded';fill:#000000;stroke:none"
+   transform="translate(-264.58335)">
+    <text
+   id="text1564"
+   y="9068"
+   x="2742">b</text>
+
+
+   </g>
+   <g
+   id="g1570"
+   font-weight="400"
+   font-style="normal"
+   font-size="1187"
+   style="font-style:normal;font-weight:400;font-size:1187px;font-family:'OpenSymbol embedded';fill:#000000;stroke:none">
+    <text
+   id="text1568"
+   y="9068"
+   x="3335">−</text>
+
+
+   </g>
+   <g
+   id="g1574"
+   font-weight="400"
+   font-style="italic"
+   font-size="1187"
+   style="font-style:italic;font-weight:400;font-size:1187px;font-family:'Times New Roman embedded';fill:#000000;stroke:none">
+    <text
+   id="text1572"
+   y="9068"
+   x="4378">a</text>
+
+
+   </g>
+  </g><g
+   style="visibility:visible;fill-rule:evenodd;stroke-width:28.22200012;stroke-linejoin:round"
+   id="Drawing_17"
+   transform="translate(24596.643,456.60378)">
+   <g
+   id="g1579"
+   font-weight="400"
+   font-style="italic"
+   font-size="1902"
+   style="font-style:italic;font-weight:400;font-size:1902px;font-family:'Times New Roman embedded';fill:#000000;stroke:none">
+    <text
+   id="text1577"
+   y="18669"
+   x="11580">a</text>
+
+
+   </g>
+  </g><g
+   style="visibility:visible;fill-rule:evenodd;stroke-width:28.22200012;stroke-linejoin:round"
+   id="Drawing_18"
+   transform="translate(24596.643,456.60378)">
+   <g
+   id="g1584"
+   font-weight="400"
+   font-style="italic"
+   font-size="1906"
+   style="font-style:italic;font-weight:400;font-size:1906px;font-family:'Times New Roman embedded';fill:#000000;stroke:none">
+    <text
+   id="text1582"
+   y="18768"
+   x="19082">b</text>
+
+
+   </g>
+  </g><g
+   style="visibility:visible;fill-rule:evenodd;stroke-width:28.22200012;stroke-linejoin:round"
+   id="Drawing_19"
+   transform="translate(24596.643,456.60378)">
+   <g
+   id="g1589"
+   font-weight="400"
+   font-style="italic"
+   font-size="1906"
+   style="font-style:italic;font-weight:400;font-size:1906px;font-family:'Times New Roman embedded';fill:#000000;stroke:none">
+    <text
+   id="text1587"
+   y="18566"
+   x="25597">x</text>
+
+
+   </g>
+  </g><g
+   style="visibility:visible;fill-rule:evenodd;stroke-width:28.22200012;stroke-linejoin:round"
+   id="Drawing_20"
+   transform="translate(24804.19,830.18869)">
+   
+   
+   
+   <g
+   id="g1841"
+   transform="rotate(-90,5234.009,3546.0521)"><g
+     style="font-style:italic;font-weight:400;font-size:1146px;font-family:'Times New Roman embedded';fill:#000000;stroke:none"
+     font-size="1146"
+     font-style="italic"
+     font-weight="400"
+     id="g1594">
+    <text
+   x="3302"
+   y="3101"
+   id="text1592">f</text>
+
+
+   </g><g
+     style="font-style:normal;font-weight:400;font-size:1146px;font-family:'OpenSymbol embedded';fill:#000000;stroke:none"
+     font-size="1146"
+     font-style="normal"
+     font-weight="400"
+     id="g1598">
+    <text
+   x="4023"
+   y="3101"
+   id="text1596">(</text>
+
+
+   </g><g
+     style="font-style:italic;font-weight:400;font-size:1146px;font-family:'Times New Roman embedded';fill:#000000;stroke:none"
+     font-size="1146"
+     font-style="italic"
+     font-weight="400"
+     id="g1602">
+    <text
+   x="4526"
+   y="3101"
+   id="text1600">x</text>
+
+
+   </g><g
+     style="font-style:normal;font-weight:400;font-size:1146px;font-family:'OpenSymbol embedded';fill:#000000;stroke:none"
+     font-size="1146"
+     font-style="normal"
+     font-weight="400"
+     id="g1606">
+    <text
+   x="5173"
+   y="3101"
+   id="text1604">)</text>
+
+
+   </g></g>
+  </g><text
+   xml:space="preserve"
+   style="font-style:normal;font-weight:normal;font-size:1058.33337402px;line-height:125%;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:26.45833397px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+   x="7122.6416"
+   y="3277.0984"
+   id="text1702"><tspan
+     sodipodi:role="line"
+     id="tspan1700"
+     x="7122.6416"
+     y="3277.0984"
+     style="stroke-width:26.45833397px">Cumulative distribution function</tspan></text>
+
+<text
+   id="text1706"
+   y="3235.5891"
+   x="33605.664"
+   style="font-style:normal;font-weight:normal;font-size:1058.33337402px;line-height:125%;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:26.45833397px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+   xml:space="preserve"><tspan
+     style="stroke-width:26.45833397px"
+     y="3235.5891"
+     x="33605.664"
+     id="tspan1704"
+     sodipodi:role="line">Probability density function</tspan></text>
+
+</svg>
