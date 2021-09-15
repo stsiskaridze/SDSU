@@ -14,7 +14,7 @@ def divide(A):
     A22 = A[row:, col:] 
     return A11, A12, A21, A22
   
-def squareMatrixMultiplyRecursive(A, B): 
+def squareMatrixMultiplicationStrassen(A, B): 
     """ 
     Computes matrix product by D&C approach, recursively. 
     Input: n x n matrix A and n x n marix Y 
@@ -27,23 +27,30 @@ def squareMatrixMultiplyRecursive(A, B):
     # Splitting the matrices into quadrants recursively.
     A11, A12, A21, A22 = divide(A) 
     B11, B12, B21, B22 = divide(B) 
-      
+
+    # Computing the 7 products, recursively (p1, p2...p7) 
+    p1 = squareMatrixMultiplicationStrassen(A11, B12 - B22)
+    p2 = squareMatrixMultiplicationStrassen(A11 + A12, B22)
+    p3 = squareMatrixMultiplicationStrassen(A21 + A22, B11)
+    p4 = squareMatrixMultiplicationStrassen(A22, B21 - B11)
+    p5 = squareMatrixMultiplicationStrassen(A11 + A22, B11 + B22)
+    p6 = squareMatrixMultiplicationStrassen(A12 - A22, B21 + B22)
+    p7 = squareMatrixMultiplicationStrassen(A11 - A21, B11 + B12)
+    
+
     # Computing the values of the 4 quadrants of the final matrix c 
-    C11 = squareMatrixMultiplyRecursive(A11, B11) + squareMatrixMultiplyRecursive (A12, B21)
-    C12 = squareMatrixMultiplyRecursive(A11, B12) + squareMatrixMultiplyRecursive (A12, B22)
-    C21 = squareMatrixMultiplyRecursive(A21, B11) + squareMatrixMultiplyRecursive (A22, B21)
-    C22 = squareMatrixMultiplyRecursive(A21, B22) + squareMatrixMultiplyRecursive (A22, B22)
+    C11 = p5 + p4 - p2 + p6   
+    C12 = p1 + p2            
+    C21 = p3 + p4             
+    C22 = p1 + p5 - p3 - p7   
   
     # Combining the 4 quadrants into a single matrix by stacking horizontally and vertically. 
     C = np.vstack((np.hstack((C11, C12)), np.hstack((C21, C22))))  
   
     return C
 
-#A = np.array([[1, 2], [3, 4]])
-#B = np.array([[1, 2], [3, 4]])
-
 A = np.array([[1, 2, 3, 4], [5, 6, 7, 8], [9, 10, 11, 12], [13, 14, 15, 16]])
 B = np.array([[1, 2, 3, 4], [5, 6, 7, 8], [9, 10, 11, 12], [13, 14, 15, 16]])
 
-C = squaxreMatrixMultiplyRecursive(A,B)
+C = squareMatrixMultiplicationStrassen(A,B)
 print(C)
